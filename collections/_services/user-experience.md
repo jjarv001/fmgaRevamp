@@ -1,6 +1,6 @@
 ---
-title: "User Experience"
-description: "Understanding the needs of the user and creating product solutions."
+title: "Collaborate"
+description: "Our growers work together to find the best methods for the best products"
 date: 2018-11-28T15:15:34+10:00
 weight: 2
 header_transparent: true
