@@ -1,6 +1,6 @@
 ---
-title: "Web Design"
-description: "Design beautiful modern websites using the Jamstack."
+title: "Consulting"
+description: "Want to grow on your own? We'll help you build a plan"
 date: 2018-11-28T15:15:34+10:00
 weight: 4
 header_transparent: true
