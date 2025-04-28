@@ -10,8 +10,8 @@ image: "/assets/images/gen/services/service-2.webp"
 
 hero:
   enabled: true
-  heading: "User Experience"
-  sub_heading: "Understanding the needs of the user and creating product solutions."
+  heading: "Collaborate"
+  sub_heading: "Our growers work together to find the best methods for the best products"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

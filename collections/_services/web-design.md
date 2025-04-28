@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-4.webp"
 
 hero:
   enabled: true
-  heading: "Web Design"
-  sub_heading: "Design beautiful modern websites using the Jamstack."
+  heading: "Consulting"
+  sub_heading: "Want to grow on your own? We'll help you build a plan"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

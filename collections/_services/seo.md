@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-5.webp"
 
 hero:
   enabled: true
-  heading: "SEO"
-  sub_heading: "Improving search engine rankings through techincal on page SEO and content creation."
+  heading: "Events"
+  sub_heading: "You like to party, so do we. Here's where you'll find us"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-3.webp"
 
 hero:
   enabled: true
-  heading: "Branding"
-  sub_heading: "The expression of a brand including its name, trademark, and visual appearance."
+  heading: "Educating"
+  sub_heading: "Our classes offer hands-on experience in how to do what we do"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
