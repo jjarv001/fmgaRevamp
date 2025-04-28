@@ -1,6 +1,6 @@
 ---
 title: "Events"
-description: "Improving search engine rankings through techincal on page SEO and content creation."
+description: "You like to party, so do we. Here's where you'll find us"
 date: 2021-07-23
 weight: 5
 header_transparent: true
