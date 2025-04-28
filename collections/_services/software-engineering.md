@@ -1,6 +1,6 @@
 ---
-title: "Software Engineering"
-description: "Building complex web applications and system software."
+title: "Experimentation"
+description: "We know we don't know everything, so we study, experiment, and test"
 date: 2019-10-03
 weight: 6
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-6.webp"
 
 hero:
   enabled: true
-  heading: "Software Engineering"
-  sub_heading: "Building complex web applications and system software."
+  heading: "Experimentation"
+  sub_heading: "We know we don't know everything, so we study, experiment, and test"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

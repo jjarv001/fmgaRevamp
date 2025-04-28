@@ -1,5 +1,5 @@
 ---
-title: "Educating"
+title: "Educate"
 description: "Our classes offer hands-on experience in how to do what we do"
 date: 2019-10-03
 weight: 3
@@ -11,7 +11,7 @@ image: "/assets/images/gen/services/service-3.webp"
 
 hero:
   enabled: true
-  heading: "Educating"
+  heading: "Educate"
   sub_heading: "Our classes offer hands-on experience in how to do what we do"
   text_color: "#ffffff"
   background_color: ""
