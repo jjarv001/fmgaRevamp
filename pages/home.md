@@ -11,8 +11,8 @@ hero:
   heading: "Jekyll Advance"
   sub_heading: "Built using highly configurable sections, Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
   text_color: "#FFFFFF"
-  background_color: "none" #was 1d2830
-  background_gradient: true
+  background_color: "#1d2830"
+  background_gradient: false #was true
   background_image: "/assets/images/gen/home/home-1-large.webp"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: true
