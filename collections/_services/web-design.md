@@ -1,5 +1,5 @@
 ---
-title: "Consulting"
+title: "Consultation"
 description: "Want to grow on your own? We'll help you build a plan"
 date: 2018-11-28T15:15:34+10:00
 weight: 4
@@ -11,7 +11,7 @@ image: "/assets/images/gen/services/service-4.webp"
 
 hero:
   enabled: true
-  heading: "Consulting"
+  heading: "Consultation"
   sub_heading: "Want to grow on your own? We'll help you build a plan"
   text_color: "#ffffff"
   background_color: ""
