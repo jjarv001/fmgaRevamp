@@ -38,7 +38,7 @@ hero:
 
 services:
   enabled: true
-  heading: "Our Services"
+  heading: "What We Do" #was "Our Services"
   sub_heading: ""
   limit: 6
   sort: "weight" # 'date'
