@@ -2,7 +2,8 @@
 # Jekyll Config
 # --------------------
 baseurl: ""
-url: "https://jekyll-advance.netlify.app"
+url: "https://fmga.netlify.app/"
+#url: https://jekyll-advance.netlify.app/
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
