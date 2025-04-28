@@ -8,7 +8,7 @@ header_transparent: true
 hero:
   enabled: true
   heading: "Our Services"
-  sub_heading: "Whether your're lookin' for produce or lookin' to to produce, we've got you covered"
+  sub_heading: "Whether your're lookin' for produce or lookin' to produce, we've got you covered"
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true
