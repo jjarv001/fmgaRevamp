@@ -1,6 +1,6 @@
 ---
-title: "Branding"
-description: "The expression of a brand including its name, trademark, and visual appearance."
+title: "Educating"
+description: "Our classes offer hands-on experience in how to do what we do"
 date: 2019-10-03
 weight: 3
 header_transparent: true
