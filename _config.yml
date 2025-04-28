@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: ""
+baseurl: "/fmgaRevamp"
 url: "https://jekyll-advance.netlify.app"
 permalink: pretty
 markdown: kramdown
