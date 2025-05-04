@@ -9,7 +9,7 @@ image: "/assets/images/gen/projects/project-1-1.webp"
 client: "Zero Developments Pty Ltd"
 
 hero:
-  enabled: true
+  enabled: false # was true
   heading: "Book Design"
   sub_heading: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units."
   text_color: "#000000"
