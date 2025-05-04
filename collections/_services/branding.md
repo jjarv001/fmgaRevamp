@@ -1,6 +1,6 @@
 ---
 title: "Educate"
-description: "Our classes offer hands-on experience in how to do what we do"
+description: "Our classes offer hands-on experience in the art of mushroom cultivation"
 date: 2019-10-03
 weight: 3
 header_transparent: true
@@ -12,7 +12,7 @@ image: "/assets/images/gen/services/service-3.webp"
 hero:
   enabled: true
   heading: "Educate"
-  sub_heading: "Our classes offer hands-on experience in how to do what we do"
+  sub_heading: "Our classes offer hands-on experience in the art of mushroom cultivation"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
