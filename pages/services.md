@@ -10,13 +10,13 @@ hero:
   heading: "Our Services"
   sub_heading: "Whether your're lookin' for produce or lookin' to produce, we've got you covered"
   text_color: "#FFFFFF"
-  background_color: false
+  background_color: "#1d2830"
   background_gradient: false
   background_image: "/assets/images/gen/home/mushroomsOnRightBackground.webp"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: false
   fullscreen_desktop: false
-  height: "300px"
+  height: "500px"
   buttons:
     enabled: false
     list:
