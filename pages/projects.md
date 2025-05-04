@@ -5,7 +5,7 @@ title: Projects
 description: "A selection of our work and projects."
 permalink: "/projects/"
 header_transparent: true
-published: false #new line
+#published: false #add this line to disable page
 
 hero:
   enabled: true #was true
