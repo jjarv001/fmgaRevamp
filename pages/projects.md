@@ -7,7 +7,7 @@ permalink: "/projects/"
 header_transparent: true
 
 hero:
-  enabled: false #was true
+  enabled: true #was true
   heading: "Projects"
   sub_heading: "Our portfolio of work and projects."
   text_color: "#FFFFFF"
