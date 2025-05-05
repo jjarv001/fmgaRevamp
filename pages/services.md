@@ -21,7 +21,7 @@ hero:
 
   fullscreen_mobile: false
   fullscreen_desktop: false
-  height: "500px"
+  height: "auto"
   buttons:
     enabled: false
     list:
