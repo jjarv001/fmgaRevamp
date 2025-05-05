@@ -15,6 +15,7 @@ hero:
   background_image: "/assets/images/gen/home/mushroomsOnRightBackground.webp"
   object-fit: cover
   object-position: center
+  background_image_object_position: center
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   #how do I raise the image 200 px
   height: 500px;
