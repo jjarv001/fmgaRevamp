@@ -16,7 +16,7 @@ hero:
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   #how do I raise the image 200 px
   background_image:
-    background_position: bottom
+    background-position: bottom
   # background_image-background-position: "bottom"
   # background_image_background-position: "bottom"
 
