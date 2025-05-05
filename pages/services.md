@@ -16,9 +16,9 @@ hero:
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   #how do I raise the image 200 px
   width: 200px;
-  height: 300px;
+  height: 500px;
   object-fit: cover;
-  object-position: 80% 100%;
+  object-position: center top;
 
   fullscreen_mobile: false
   fullscreen_desktop: false
