@@ -8,7 +8,7 @@ header_transparent: true
 hero:
   enabled: true
   heading: "Our Services"
-  sub_heading: "Whether your're lookin' for produce or lookin' to produce, we've got you covered"
+  sub_heading: Whether your're lookin' _for_ produce or lookin' _to_ produce, we've got you covered
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
@@ -21,7 +21,7 @@ hero:
 
   fullscreen_mobile: false
   fullscreen_desktop: false
-  height: "auto"
+  height: "300px" #orig was 500
   buttons:
     enabled: false
     list:
