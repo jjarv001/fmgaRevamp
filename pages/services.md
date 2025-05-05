@@ -18,7 +18,7 @@ hero:
   width: 200px;
   height: 500px;
   object-fit: cover;
-  object-position: center bottom;
+  object-position: 0% 90%;
 
   fullscreen_mobile: false
   fullscreen_desktop: false
