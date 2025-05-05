@@ -13,12 +13,12 @@ hero:
   background_color: "#1d2830"
   background_gradient: false
   background_image: "/assets/images/gen/home/mushroomsOnRightBackground.webp"
+  object-fit: cover
+  object-position: center
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   #how do I raise the image 200 px
-  width: 200px;
   height: 500px;
-  object-fit: cover;
-  object-position: center;
+
 
   fullscreen_mobile: false
   fullscreen_desktop: false
