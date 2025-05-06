@@ -6,7 +6,7 @@ weight: 3
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/educateIcon.png"
-thumbnail: "/assets/images/gen/services/service-3-thumbnail.webp"
+thumbnail: "/assets/images/gen/services/educate.jpeg"
 image: "/assets/images/gen/services/service-3.webp"
 
 hero:
