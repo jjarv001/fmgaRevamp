@@ -16,8 +16,8 @@ main:
         url: /services/consultation/
       - name: "Events"
         url: /services/events/
-      - name: "Software Engineering"
-        url: /services/software-engineering/
+      - name: "Experimentation"
+        url: /services/experimentation/
   - name: Projects
     url: /projects/
     weight: 2
