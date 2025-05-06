@@ -33,15 +33,25 @@ hero:
         style: "primary"
 ---
 
-# Creating Modern Websites
+# Spore to Supper
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+Mushrooms can be grown in many ways, and we strive to perfect the sustainable methods.
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+In nature, mushrooms grow on forest floors, logs, and a variety of other mediums. Modern growing methods 
+often involve plastic grow bags, controlled environments, and/or the use of chemicals.
 
-## What is Web Design?
+The bulk of our produce is grown on logs using modern techniques, providing a more sustainable and
+natural production method.
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+## How's it done?
+
+Lots of planning. Our current produce is years in the making. We spend a considerable amount of time 
+in the spring and fall cutting down trees and inoculating. We often don't start seeing produce until a year or two after inoculation.
+
+While our time put in up-front is substantial, the result is little overhead in terms of expenses. Because most of product is log-grown, we let the woods do the climate control. When Mother Nature decides, its harvest time.
+
+The low overhead lets us keep our prices in-line if not better than the big names.
+
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
 
