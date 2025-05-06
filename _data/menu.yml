@@ -12,8 +12,8 @@ main:
         url: /services/collaborate/
       - name: "Educate"
         url: /services/educate/
-      - name: "Web Design"
-        url: /services/web-design/
+      - name: "Consultation"
+        url: /services/consultation/
       - name: "Events"
         url: /services/events/
       - name: "Software Engineering"
