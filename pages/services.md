@@ -14,13 +14,12 @@ hero:
   background_gradient: false
   background_image: "/assets/images/gen/home/mushroomsOnRightBackground.webp"
   style: "background-position: center;" # Inline style to raise the image by 200px
-  height: "700px"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
 
 
   fullscreen_mobile: false
   fullscreen_desktop: false
-  height: "500px" #orig was 500
+  height: "700px" #orig was 500
   buttons:
     enabled: false
     list:
