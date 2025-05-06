@@ -10,8 +10,8 @@ main:
         url: /services/produce/
       - name: "Collaborate"
         url: /services/collaborate/
-      - name: "Branding"
-        url: /services/branding/
+      - name: "Educate"
+        url: /services/educate/
       - name: "Web Design"
         url: /services/web-design/
       - name: "Events"
