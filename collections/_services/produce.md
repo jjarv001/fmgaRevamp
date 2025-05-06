@@ -46,7 +46,7 @@ natural production method.
 ## How's it done?
 
 Lots of planning. Our current produce is years in the making. We spend a considerable amount of time 
-in the spring and fall cutting down trees and inoculating. We often don't start seeing produce until a year or two after inoculation.
+in the spring and fall felling trees and inoculating. We often don't start seeing produce until a year or two after inoculation.
 
 While our time put in up-front is substantial, the result is little overhead in terms of expenses. Because most of product is log-grown, we let the woods do the climate control. When Mother Nature decides, its harvest time.
 
