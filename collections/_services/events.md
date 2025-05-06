@@ -6,7 +6,7 @@ weight: 5
 header_transparent: true
 fa_icon: "far fa-chart-bar"
 icon: "assets/images/icons/eventsIcon.png"
-thumbnail: "/assets/images/gen/services/eventsThumbnail1.png" #convert to webp later
+thumbnail: "/assets/images/gen/services/eventsThumbnail2.jpeg" #convert to webp later
 image: "/assets/images/gen/services/service-5.webp"
 
 hero:

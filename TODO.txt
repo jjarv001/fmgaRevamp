@@ -1,0 +1,4 @@
+Footer is disabled in _config.yml
+    need to update the footer and enable
+Resize images on services page
+Change blue font colors
