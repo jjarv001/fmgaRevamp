@@ -20,7 +20,7 @@ hero:
   background_image: "/assets/images/gen/services/service-1-large.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
-  height: 660px
+  height: 800px
   buttons:
     enabled: false
     list:
