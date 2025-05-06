@@ -6,7 +6,7 @@ weight: 6
 header_transparent: true
 fa_icon: "fab fa-codepen"
 icon: "assets/images/icons/experimentationIcon.png"
-thumbnail: "/assets/images/gen/services/experimentationThumbnail.jpg"
+thumbnail: "/assets/images/gen/services/experimentationThumbnail1.jpeg" #change to webp later
 image: "/assets/images/gen/services/service-6.webp"
 
 hero:
