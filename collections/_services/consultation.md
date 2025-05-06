@@ -6,7 +6,7 @@ weight: 4
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/consultationIcon.png"
-thumbnail: "/assets/images/gen/services/service-4-thumbnail.webp"
+thumbnail: "/assets/images/gen/services/consultationThumbnail.jpeg"
 image: "/assets/images/gen/services/service-4.webp"
 
 hero:
