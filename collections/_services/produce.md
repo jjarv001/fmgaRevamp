@@ -14,9 +14,9 @@ hero:
   heading: "Produce"
   sub_heading: "Mushroom production is our number one goal"
   text_color: "#FFFFFF"
-  background_color: "#1d2830"
-  background_gradient: false
-  background_image_blend_mode: false # "overlay", "multiply", "screen"
+  background_color: "#1d2830" #was ""
+  background_gradient: false #was true
+  background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   background_image: "/assets/images/gen/services/produceBG.jpeg"
   fullscreen_mobile: false
   fullscreen_desktop: false
