@@ -6,8 +6,8 @@ main:
     url: /services/
     weight: 1
     child:
-      - name: "Web Development"
-        url: /services/web-development/
+      - name: "Produce"
+        url: /services/produce/
       - name: "UX"
         url: /services/user-experience/
       - name: "Branding"
