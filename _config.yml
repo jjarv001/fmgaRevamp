@@ -187,7 +187,7 @@ menu:
   show_social_media_in_mobile_menu: true
 
 footer:
-  enable_footer: true # show/hide the entire footer
+  enable_footer: false # show/hide the entire footer
   footer_title: "Jekyll Advance"
   footer_description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
   enable_social_media_icons: true
