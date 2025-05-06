@@ -24,15 +24,19 @@ hero:
         size: large
 ---
 
-# Creating Modern Websites
+# Who We Are
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+...
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+## Our Methods
 
-## What is Web Design?
+Mushrooms can be grown in many ways, and we strive to perfect the sustainable methods.
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+In nature, mushrooms grow on forest floors, logs, and a variety of other mediums. Modern growing methods 
+often involve plastic grow bags, controlled environments, and/or the use of chemicals.
+
+The bulk of our produce is grown on logs using modern techniques, providing a more sustainable and
+natural production method.
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
 

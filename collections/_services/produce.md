@@ -33,15 +33,22 @@ hero:
         style: "primary"
 ---
 
-# Spore to Supper
+# Mushrooms
 
-Mushrooms can be grown in many ways, and we strive to perfect the sustainable methods.
+Our top priority is producing mushrooms. Our mushrooms are sold both fresh and as secondary products. 
+We currently have approximately 10,000 logs inoculated with different varieties, and are always trying 
+to expand our operation.
 
-In nature, mushrooms grow on forest floors, logs, and a variety of other mediums. Modern growing methods 
-often involve plastic grow bags, controlled environments, and/or the use of chemicals.
+# Secondary Products
 
-The bulk of our produce is grown on logs using modern techniques, providing a more sustainable and
-natural production method.
+While our main goal is to produce mushrooms, there are many forms that mushroom products can take. Tinctures, teas, seasonings, and freeze-dried products are just a few of our offerings.
+
+# Top Quality
+
+Many mushrooms you'll find elsewhere are grown in climate-controlled facilities with minimal exposure 
+to the natural environment. The vast majority of our product develops where its designed to: nature. On 
+top of being much more sustainable and environmentally friendly, our produce has flavor complexities 
+that you won't find your typical store-bought mushrooms.
 
 ## How's it done?
 
