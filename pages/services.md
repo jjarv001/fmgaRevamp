@@ -56,12 +56,12 @@ outro:
   enabled: true
   align: left
   image: false
-  heading: "Ready to get started?"
-  sub_heading: "Contact us today for a free quote!"
+  heading: "Want to learn more?"
+  sub_heading: "Contact us today!"
   buttons:
     enabled: true
     list:
-      - text: "Get A Quote"
+      - text: "Contact Us"
         url: "/contact"
         external: false
         fa_icon: false
