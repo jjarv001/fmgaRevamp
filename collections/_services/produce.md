@@ -6,7 +6,7 @@ weight: 1
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/produceIcon.png"
-thumbnail: "/assets/images/gen/services/produceThumbnail1.webp"
+thumbnail: "/assets/images/gen/services/produceThumbnail2.jpeg"
 image: "/assets/images/gen/services/service-1.webp"
 
 hero:
