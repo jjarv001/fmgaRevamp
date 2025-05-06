@@ -14,8 +14,8 @@ main:
         url: /services/branding/
       - name: "Web Design"
         url: /services/web-design/
-      - name: "SEO"
-        url: /services/seo/
+      - name: "Events"
+        url: /services/events/
       - name: "Software Engineering"
         url: /services/software-engineering/
   - name: Projects
