@@ -8,7 +8,7 @@ header_transparent: true
 hero:
   enabled: true
   heading: "Our Services"
-  sub_heading: Whether your're lookin' _for_ produce or lookin' _to_ produce, we've got you covered
+  sub_heading: Whether your're lookin' for produce or lookin' to produce, we've got you covered
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
@@ -16,14 +16,11 @@ hero:
   style: "background-position: center;" # Inline style to raise the image by 200px
   height: "500px"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
-  #how do I raise the image 200 px
-  #height: "960px"
-  # width: "200px"
 
 
   fullscreen_mobile: false
   fullscreen_desktop: false
-  height: "300px" #orig was 500
+  height: "500px" #orig was 500
   buttons:
     enabled: false
     list:
