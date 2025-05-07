@@ -1,5 +1,5 @@
 ---
-title: "Educate"
+title: "Education"
 description: "Our classes offer hands-on experience in the art of mushroom cultivation"
 date: 2019-10-03
 weight: 3
