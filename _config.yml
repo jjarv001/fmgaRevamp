@@ -90,7 +90,7 @@ category_dir: category
 
 colors:
   #light-mode colors
-  primary_bg: "#2b3af7"
+  primary_bg: "green"
   primary_bg_2: "#424ff8"
   primary_bg_3: "#702bf7"
   primary_text: "#fdfcf9"

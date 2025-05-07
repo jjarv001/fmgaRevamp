@@ -67,6 +67,9 @@ A Design System is a set of interconnected patterns and shared practices coheren
 
 {% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
 
+To include a youtube video use:
+{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
+
 ## Process
 
 There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
