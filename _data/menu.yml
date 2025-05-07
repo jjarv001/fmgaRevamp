@@ -8,8 +8,8 @@ main:
     child:
       - name: "Produce"
         url: /services/produce/
-      - name: "Collaborate"
-        url: /services/collaborate/
+      - name: "Collaboration"
+        url: /services/collaboration/
       - name: "Education"
         url: /services/education/
       - name: "Consultation"
