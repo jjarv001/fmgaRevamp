@@ -2,7 +2,7 @@ main:
   - name: Home
     url: /
     weight: 1
-  - name: Our Work
+  - name: services
     url: /services/
     weight: 1
     child:
@@ -43,7 +43,7 @@ footer_primary:
   - name: Home
     url: /
     weight: 1
-  - name: Our Work
+  - name: services
     url: /services/
     weight: 2
   - name: Projects

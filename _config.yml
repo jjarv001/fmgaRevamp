@@ -37,7 +37,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: Our Work
+      type: services
     values:
       layout: services
   - scope:
