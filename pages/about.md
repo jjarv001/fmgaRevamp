@@ -10,7 +10,7 @@ image: "/assets/images/gen/content/content-5.webp"
 hero:
   enabled: false
   heading: "About Us"
-  sub_heading: "Business plan hackathon handshake responsive web design."
+  sub_heading: "Hardwood on Marshland equals Mushrooms in Hand"
   background_image: false
   background_image_blend_mode: false
   full_height_mobile: false
