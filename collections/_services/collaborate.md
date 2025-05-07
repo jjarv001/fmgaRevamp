@@ -21,6 +21,13 @@ hero:
   fullscreen_desktop: false
   height: 660px
   buttons:
+  enabled: true
+  list:
+    - text: "Contact Us"
+      url: "/contact"
+      external: false
+      size: "large"
+  buttons:
     enabled: false
     list:
       - text: "Buy Now"
@@ -54,28 +61,14 @@ Finally, communication. What we lack in screen-time we make up for in numbers. T
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
 
-## Front-end Development
+## How does this benefit us?
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+The beautiful thing about a co-op is the cooperation.
 
-> As a UX designer, you should consider the Why, What and How of product use.
+We're there to back each other up, whether it be at harvest time or at a farmer's market. We work together on joint production operations, supply each other when one farmer has a shortage and another excess, and we're there to check on each other's crops when someone's out of town or sick.
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
+All of the aforementioned benefits are key to our success, but one of our greatest assets as a co-op is shared knowledge. We share with each other new techniques, observations, and methods. We share ideas, perspectives, and innovations. Shared knowledge is key to our success, both in cultivation and business.
 
-## Design Systems
+## Interested in joining?
 
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma](/assets/images/gen/content/content-2.webp)
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+We grow mushrooms, but we're also looking to grow our co-op. Contact us if you think you might be interested (serious growers only).
