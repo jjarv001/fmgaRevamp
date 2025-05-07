@@ -75,12 +75,12 @@ intro:
         style: "primary"
 
 partners:
-  enabled: true
+  enabled: false # was true
   limit: 5
   sort: "weight" # 'date'
 
 projects:
-  enabled: true
+  enabled: false # was true
   heading: "Our Projects"
   sub_heading: ""
   limit: 2
@@ -94,8 +94,8 @@ outro:
   enabled: true
   align: center
   image: false
-  heading: Get Started Today
-  sub_heading: "Save time and money using this premium Jekyll theme."
+  heading: FMGA
+  sub_heading: "Let us know how we can help you."
   features:
     enabled: false
     list:
@@ -110,7 +110,7 @@ outro:
         size: "large"
 
 posts:
-  enabled: true
+  enabled: false # was true
   heading: "Latest Posts"
   sub_heading: ""
   limit: 3
