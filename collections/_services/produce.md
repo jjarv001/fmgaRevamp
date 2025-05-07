@@ -51,8 +51,9 @@ top of being much more sustainable and environmentally friendly, our produce has
 that you won't find your typical store-bought mushrooms.
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/produceImage1.jpeg" title="Christian Brown" caption="" alt="Shiitake on Log (1)" %}
+<!--originally contained: link="" target="_blank"  ...at the end-->
 
-## Front-end Development
+<!-- ## Front-end Development
 
 The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
 
@@ -76,4 +77,4 @@ There are two primary jobs involved in creating a website: the web designer and 
 
 ![Design In Figma](/assets/images/gen/content/content-2.webp)
 
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another. -->
