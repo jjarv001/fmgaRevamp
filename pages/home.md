@@ -50,8 +50,8 @@ intro:
   enabled: true
   align: left
   image: "/assets/images/gen/content/content-5-thumbnail.webp"
-  heading: "We've helped hundreds of people grow their business online."
-  sub_heading: "Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home."
+  heading: "We're the future of sustainable mushroom cultivation"
+  sub_heading: "Our methods enable us to produce top quality product at an affordable price."
   features:
     enabled: false
     list:
