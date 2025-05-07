@@ -91,7 +91,7 @@ category_dir: category
 colors:
   #light-mode colors
   primary_bg: "#023020" #changed to dark green
-  primary_bg_2: "#424ff8"
+  primary_bg_2: "green" #changed to green
   primary_bg_3: "#702bf7"
   primary_text: "#fdfcf9"
   base_bg: "#ffffff"
