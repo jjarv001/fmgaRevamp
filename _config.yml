@@ -104,7 +104,7 @@ colors:
 
   # dark-mode colors
   primary_bg_dark: "#339933" #changed to lightish green
-  primary_bg_2_dark: "#339933" #darker green
+  primary_bg_2_dark: "#336633" #darker green
   primary_bg_3_dark: "#702bf7"
   primary_text_dark: "#fdfcf9"
   base_bg_dark: "#0f0f10"
