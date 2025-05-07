@@ -10,8 +10,8 @@ main:
         url: /ourWork/produce/
       - name: "Collaborate"
         url: /ourWork/collaborate/
-      - name: "Educate"
-        url: /ourWork/educate/
+      - name: "Education"
+        url: /ourWork/education/
       - name: "Consultation"
         url: /ourWork/consultation/
       - name: "Events"
