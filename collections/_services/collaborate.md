@@ -21,22 +21,22 @@ hero:
   fullscreen_desktop: false
   height: 660px
   buttons:
-  enabled: true
-  list:
-    - text: "Contact Us"
-      url: "/contact"
-      external: false
-      size: "large"
-  buttons:
-    enabled: false
+    enabled: true
     list:
-      - text: "Buy Now"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
-        external: true
-        fa_icon: false
-        size: large
-        outline: false
-        style: "primary"
+      - text: "Contact Us"
+        url: "/contact"
+        external: false
+        size: "large"
+  # buttons:
+  #   enabled: false
+  #   list:
+  #     - text: "Buy Now"
+  #       url: "https://www.zerostatic.io/theme/jekyll-advance/"
+  #       external: true
+  #       fa_icon: false
+  #       size: large
+  #       outline: false
+  #       style: "primary"
 ---
 
 # We're a co-op
