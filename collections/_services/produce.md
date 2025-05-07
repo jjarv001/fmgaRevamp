@@ -50,17 +50,7 @@ to the natural environment. The vast majority of our product develops where its 
 top of being much more sustainable and environmentally friendly, our produce has flavor complexities 
 that you won't find your typical store-bought mushrooms.
 
-## How's it done?
-
-Lots of planning. Our current produce is years in the making. We spend a considerable amount of time 
-in the spring and fall felling trees and inoculating. We often don't start seeing produce until a year or two after inoculation.
-
-While our time put in up-front is substantial, the result is little overhead in terms of expenses. Because most of product is log-grown, we let the woods do the climate control. When Mother Nature decides, its harvest time.
-
-The low overhead lets us keep our prices in-line if not better than the big names.
-
-
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/produceImage1.jpeg" title="Christian Brown" caption="" alt="Shiitake on Log (1)" link="" target="_blank" %}
 
 ## Front-end Development
 
