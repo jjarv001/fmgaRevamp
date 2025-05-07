@@ -4,13 +4,13 @@ title: "About Us"
 date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
+description: "With hardwood and salt "
 image: "/assets/images/gen/content/content-5.webp"
 
 hero:
   enabled: false
   heading: "About Us"
-  sub_heading: "Hardwood on Marshland equals Mushrooms in Hand"
+  sub_heading: "A group of salty mushroom farmers working together in Eastern VA"
   background_image: false
   background_image_blend_mode: false
   full_height_mobile: false
@@ -26,7 +26,32 @@ hero:
 
 # Who We Are
 
-...
+<u> Pat Hanners </u>
+The godfather of our organization, rumor has it he actually harvested the first mushroom approximately 90 million years ago. He was involved in the development of novel cultivation techniques in the 1980s, and worked for the USDA for years. He's our go-to expert.
+Pat's farm: Goose Creek Farm
+Email: 
+Facebook: 
+
+<u> Christian Baker </u>
+Our resident chef, Christian was in the culinary field for years. He's always coming up with new ways to brand our products, and creating new recipes. His expertise helps us to expand our market beyond fresh mushrooms, providing our customers with more options and our group with greater opportunities.
+Christian's farm: Mush Love
+Facebook: 
+Email:
+Phone: 
+
+<u> Frank Schmidt </u>
+A teacher for 25 years, Frank has the patience of a Buddhist monk. Frank regularly experiments with different varieties of mushrooms and methods of production, leading to new innovations that benefit the organization.
+Frank's farm: Tidewater Mushrooms LLC
+Website: 
+Email: 
+Phone: 
+
+<u> John Jarvis </u>
+Formerly an engineering technician in the manufacturing industry, John is an expert in statistical analysis and efficiency solutions. Also holding a Bachelor's in Computer Science, he's a practicing software developer interested in apply AI and Machine Learning tools to nature.
+John's farm: Jarvis Harvest
+Website: Coming soon
+Email: Coming soon
+Phone: 804-725-8642
 
 ## Our Methods
 
@@ -35,7 +60,7 @@ Mushrooms can be grown in many ways, and we strive to perfect the sustainable me
 In nature, mushrooms grow on forest floors, logs, and a variety of other mediums. Modern growing methods 
 often involve plastic grow bags, controlled environments, and/or the use of chemicals.
 
-The bulk of our produce is grown on logs using modern techniques, providing a more sustainable and
+The bulk of our produce is grown on logs using modern techniques, providing a more sustainable and 
 natural production method.
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
