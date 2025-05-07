@@ -49,7 +49,7 @@ services:
 intro:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-5-thumbnail.webp"
+  image: "/assets/images/gen/content/homeBottomThumbnail.jpeg"
   heading: "We're the future of sustainable mushroom cultivation"
   sub_heading: "Our methods enable us to produce top quality product at an affordable price."
   features:
