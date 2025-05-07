@@ -82,4 +82,4 @@ All of the aforementioned benefits are key to our success, but one of our greate
 
 ## Interested in joining?
 
-We grow mushrooms, but we're also looking to grow our co-op. Contact us if you think you might be interested (serious growers only).
+We grow mushrooms, but we're also looking to grow our co-op. [Contact us](/contact) if you think you might be interested (serious growers only).
