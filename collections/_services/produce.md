@@ -50,7 +50,7 @@ to the natural environment. The vast majority of our product develops where its 
 top of being much more sustainable and environmentally friendly, our produce has flavor complexities 
 that you won't find your typical store-bought mushrooms.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/produceImage1.jpeg" title="Christian Brown" caption="" alt="Shiitake on Log (1)" link="" target="_blank" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/produceImage1.jpeg" title="Christian Brown" caption="" alt="Shiitake on Log (1)" %}
 
 ## Front-end Development
 
