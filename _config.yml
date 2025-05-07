@@ -20,7 +20,7 @@ paginate_path: "/blog/page/:num"
 # Collections
 collections_dir: collections
 collections:
-  ourWork:
+  services:
     output: true
     permalink: /:collection/:path/
   projects:
@@ -39,7 +39,7 @@ defaults:
       path: ""
       type: Our Work
     values:
-      layout: ourWork
+      layout: services
   - scope:
       path: ""
       type: projects

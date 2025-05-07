@@ -3,21 +3,21 @@ main:
     url: /
     weight: 1
   - name: Our Work
-    url: /ourWork/
+    url: /services/
     weight: 1
     child:
       - name: "Produce"
-        url: /ourWork/produce/
+        url: /services/produce/
       - name: "Collaborate"
-        url: /ourWork/collaborate/
+        url: /services/collaborate/
       - name: "Education"
-        url: /ourWork/education/
+        url: /services/education/
       - name: "Consultation"
-        url: /ourWork/consultation/
+        url: /services/consultation/
       - name: "Events"
-        url: /ourWork/events/
+        url: /services/events/
       - name: "Experimentation"
-        url: /ourWork/experimentation/
+        url: /services/experimentation/
   - name: Projects
     url: /projects/
     weight: 2
@@ -44,7 +44,7 @@ footer_primary:
     url: /
     weight: 1
   - name: Our Work
-    url: /ourWork/
+    url: /services/
     weight: 2
   - name: Projects
     url: /projects/
