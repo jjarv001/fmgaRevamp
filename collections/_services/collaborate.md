@@ -70,7 +70,7 @@ When it comes to delivery, we'll make it happen. Since it's a co-op, we're all i
 Finally, communication. What we lack in screen-time we make up for in numbers. There will always be someone who responds to an email, text, or phone call (just don't call Pat).
 
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/coopGoogleEarth" title="Co-operating Area" caption="Eastern VA" alt="Photo of co-ops general area"%}
 
 ## How does this benefit us?
 
