@@ -32,15 +32,25 @@ hero:
         style: "primary"
 ---
 
-# Creating Modern Websites
+# We're a co-op
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+We came together from all walks to form a co-op dedicated to sustainable mushroom cultivation practices. 
+We're tight-knit when it comes to business, but we're also all within a short driving distance. That means we can back each other up when needed.
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+## What's a co-op?
 
-## What is Web Design?
+"Co-op" is short for cooperative. Generally speaking, it means an organization where there's no sole proprieter. It's a group of individuals, or individual businesses, coming together to take part in an overarching goal. In our case, this is mushroom cultivation, processing, and sales.
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+## How does this benefit the consumer?
+
+This benefits the consumer in multiple ways.
+
+Because all our members are interested in staying in business, there's a form of "checks and balances" when it comes to quality and standards. We all expect top quality product. If one of us falls short, we all fall short. In other words, it's in a co-ops nature for individual members to hold each other accountable.
+
+When it comes to delivery, we'll make it happen. Since it's a co-op, we're all invested. If someone's out of town or sick, there's always someone there to pick up the slack.
+
+Finally, communication. What we lack in screen-time we make up for in numbers. There will always be someone who responds to an email, text, or phone call (just don't call Pat).
+
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
 
