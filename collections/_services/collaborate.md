@@ -20,6 +20,17 @@ hero:
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
+outro:
+  enabled: true
+  align: center
+  image: false
+  heading: FMGA
+  sub_heading: ""
+  features:
+    enabled: false
+    list:
+      - text: "Free Quote"
+        fa_icon: "fas fa-envelope-open-text"
   buttons:
     enabled: true
     list:
