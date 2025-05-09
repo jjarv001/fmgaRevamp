@@ -33,7 +33,7 @@ hero:
 
 ## Chesapeake Bay Croquet Club
 
-This is our main project. The [Chesapeake Bay Croquet Club] (https://cbcc.fun/) is one of the largest, if not the largest, croquet clubs in the world. As it so happens, there's also a lot of timber and land management that's necessary for the property.
+This is our main project. The [Chesapeake Bay Croquet Club](https://cbcc.fun/) is one of the largest, if not the largest, croquet clubs in the world. As it so happens, there's also a lot of timber and land management that's necessary for the property.
 
 Thanks to the open-mindedness and entreprenuership of the owner, our organization is working with this amazing location to help manage their woodlands and produce a crop worth selling. We get to fell, inoculate, and harvest on-site. The owner takes a portion of the profits with minimal labor, and gets low-cost land management for that portion of their property. It's a win-win
 
