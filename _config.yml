@@ -145,8 +145,8 @@ header:
 open_graph:
   meta_opengraph_type: "website"
   meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_twitter_site: #"@zerostaticio"
+  meta_twitter_creator: #"@zerostaticio"
 
 darkmode:
   enable_dark_mode: true
@@ -173,7 +173,7 @@ comments:
 
 newsletter:
   mailchimp:
-    form_action_url: https://zerostatic.us21.list-manage.com/subscribe/post?u=798e19886b83aaab346734382&amp;id=f1c526a772&amp;f_id=0027e3e6f0
+    form_action_url: #https://zerostatic.us21.list-manage.com/subscribe/post?u=798e19886b83aaab346734382&amp;id=f1c526a772&amp;f_id=0027e3e6f0
     form_title: "Let's keep in touch"
 
 contact_form: 
@@ -202,7 +202,7 @@ footer:
 bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)
   enable_bottom_menu: true # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2023 Zerostatic Themes"
+  copyright_text: "@ 2025 FMGA" #"© 2023 Zerostatic Themes"
   show_rss_icon: true
 
 sidebar:

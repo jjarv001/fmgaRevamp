@@ -2,7 +2,7 @@ main:
   - name: Home
     url: /
     weight: 1
-  - name: services
+  - name: Services
     url: /services/
     weight: 1
     child:
