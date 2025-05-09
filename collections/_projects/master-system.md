@@ -9,7 +9,7 @@ image: "/assets/images/gen/projects/project-3-1.webp"
 client: "Region of Valencia"
 
 hero:
-  enabled: true
+  enabled: false # was true
   heading: "Console Hardware"
   sub_heading: "Re-inventing the wheel my grasp on reality right now is tenuous how much bandwidth do you have."
   text_color: "#FFFFFF"

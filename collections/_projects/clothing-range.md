@@ -9,7 +9,7 @@ image: "/assets/images/gen/projects/project-4-3.webp"
 client: "RGA Agency"
 
 hero:
-  enabled: true
+  enabled: false # was true
   heading: "Clothing Range"
   sub_heading: "Business impact we need to crystallize a plan churning anomalies dogpile that it's about managing expectations."
   text_color: "#FFFFFF"
