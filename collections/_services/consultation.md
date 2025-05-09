@@ -7,17 +7,17 @@ header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/consultationIcon.png"
 thumbnail: "/assets/images/gen/services/consultationThumbnail.jpeg"
-image: "/assets/images/gen/services/service-4.webp"
+image: "/assets/images/gen/services/consultationBackground.webp" #was service-4.webp
 
 hero:
   enabled: true
   heading: "Consultation"
   sub_heading: "Want to grow on your own? We'll help you build a plan"
   text_color: "#ffffff"
-  background_color: ""
-  background_gradient: true
+  background_color: "#1d2830"
+  background_gradient: false
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-4-large.webp"
+  background_image: "/assets/images/gen/services/consultationBackground.webp" #was service-4-large.webp
   fullscreen_mobile: true
   fullscreen_desktop: false
   height: 660px;
