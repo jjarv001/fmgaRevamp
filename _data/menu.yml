@@ -28,8 +28,8 @@ main:
         url: /projects/special-edition/
       - name: "Master System"
         url: /projects/master-system/
-      - name: "Clothing Range"
-        url: /projects/clothing-range/
+      # - name: "Clothing Range"
+      #   url: /projects/clothing-range/
   - name: Blog
     url: /blog/
     weight: 4
