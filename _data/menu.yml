@@ -36,9 +36,9 @@ main:
   - name: About
     url: /about/
     weight: 5
-  - name: Buy Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
-    weight: 6
+  # - name: Buy Now
+  #   url: https://www.zerostatic.io/theme/jekyll-advance/
+  #   weight: 6
 footer_primary:
   - name: Home
     url: /
