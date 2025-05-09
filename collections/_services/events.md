@@ -10,7 +10,7 @@ thumbnail: "/assets/images/gen/services/eventsThumbnail2.jpeg" #convert to webp 
 image: "/assets/images/gen/services/service-5.webp"
 
 hero:
-  enabled: true
+  enabled: false #was true
   heading: "Events"
   sub_heading: "You like to party, so do we. Here's where you'll find us"
   text_color: "#ffffff"
