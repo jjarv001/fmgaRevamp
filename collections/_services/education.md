@@ -14,7 +14,7 @@ hero:
   heading: "Educate"
   sub_heading: "Our classes offer hands-on experience in the art of mushroom cultivation"
   text_color: "#ffffff"
-  background_color: ""
+  background_color: "#1d2830"
   background_gradient: false
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   background_image: "/assets/images/gen/services/educationBackground.webp"
@@ -33,19 +33,53 @@ hero:
         style: "primary"
 ---
 
-# Creating Modern Websites
+# Current Courses
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+We currently offer one course, and it's designed to introduce potential growers to the world of mushroom-cultivation. This course covers a lot in a short period. Some of the topics include:
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+  - Cultivation methods
+  - Popular strains
+  - Medicinal applications
+  - Environmental applications
+  - Land Stewardship/Planning
+  - Hands-on experience
 
-## What is Web Design?
+This is a condensed course. It wont't teach you everything, but it is a great starting point for individuals looking to expand their knowledge on mushrooms and fungi in general. You'll spend a fair amount of time in a classroom setting, as well as some time outdoors (weather permitting) inoculating logs.
+
+# Future Courses
+
+We have several courses planned for the future, they're just not complete yet.
+
+## Mushrooms in the Kitchen
+
+One of our founding members, Christian, is a former chef. His culinary expertise brings a tasteful dynamic to products, and we intend to host courses that will show and teach the versatility of mushrooms in the kitchen. Mushrooms are often considered a delicacy, so why not learn how to make your own delicious art?
+
+## Cultivation
+
+Our current course covers a large amount of information in a short period of time. This leaves room to improve on details. 
+
+One of the main things people come to us in search of is knowledge on how to grow, what to grow, and when to harvest. Our in-depth cultivation course will focus solely on cultivation techniques, stacking, ideal strains for our area, and harvesting.
+
+This course is will be designed for people who are familiar with fungi and mushrooms, but interested in learning more about the intricasies of our operations. This course will include:
+
+  - Cultivation techniques (in-depth, hands-on)
+  - Experimental techniques
+  - Insight into yields
+  - Insight into strain/tree-species matching
+  - Market potential
+  - Intro to Stewardship
+  - Combined views from our individual growers
+
+We don't claim to know everything about growing mushrooms, but our combined knowledge and experience goes a good distance. We share what we learn individually within our group, so when there's a new development for one of us it's a new development for all of us. This knowledge, once tried and true, will become part of this course.
+
+
+<!-- ## What is Web Design?
 
 User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %} -->
 
-## Front-end Development
+<!-- ## Front-end Development
 
 The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
 
@@ -65,8 +99,8 @@ There are two primary jobs involved in creating a website: the web designer and 
 
 - User experience research
 - Visual design and illustration
-- Programming and coding
+- Programming and coding -->
 
-![Design In Figma](/assets/images/gen/content/content-2.webp)
+<!-- ![Design In Figma](/assets/images/gen/content/content-2.webp)
 
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another. -->
