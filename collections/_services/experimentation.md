@@ -7,17 +7,17 @@ header_transparent: true
 fa_icon: "fab fa-codepen"
 icon: "assets/images/icons/experimentationIcon.png"
 thumbnail: "/assets/images/gen/services/experimentationThumbnail1.jpeg" #change to webp later
-image: "/assets/images/gen/services/service-6.webp"
+image: "/assets/images/gen/services/experimentationBackground.webp"
 
 hero:
   enabled: true
   heading: "Experimentation"
   sub_heading: "We know we don't know everything, so we study, experiment, and test"
   text_color: "#ffffff"
-  background_color: ""
-  background_gradient: true
+  background_color: "#1d2830"
+  background_gradient: false
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-6.webp"
+  background_image: "/assets/images/gen/services/experimentationBackground.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
