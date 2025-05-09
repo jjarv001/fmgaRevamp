@@ -66,9 +66,12 @@ In nature, mushrooms grow on forest floors, logs, and a variety of other mediums
 often involve plastic grow bags, controlled environments, and/or the use of chemicals.
 
 The bulk of our produce is grown on logs using modern techniques, providing a more sustainable and 
-natural production method.
+natural production method.<br>
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/placeholder1.jpeg" title="Christian Baker" caption="Fruiting Logs" alt="Photo of inoculated logs fruiting oyster mushrooms"%} <!-- link="https://figma.com" target="_blank"-->
+[Fruiting Logs - Christian Baker](/assets/images/gen/projects/cbccFirePit.png)
+
+<!-- {% include framework/shortcodes/figure.html src="/assets/images/gen/content/placeholder1.jpeg" title="Christian Baker" caption="Fruiting Logs" alt="Photo of inoculated logs fruiting oyster mushrooms"%}  -->
+<!-- link="https://figma.com" target="_blank"-->
 
 <!-- ## Front-end Development
 
