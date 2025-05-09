@@ -6,7 +6,7 @@ weight: 2
 header_transparent: true
 icon: "assets/images/icons/collaborateIcon.png"
 thumbnail: "/assets/images/gen/services/collaborateThumbnail.jpeg"
-image: "/assets/images/gen/services/service-2.webp"
+image: "/assets/images/gen/services/collaborationBackground.webp"
 
 hero:
   enabled: true
@@ -16,7 +16,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/experimentationThumbnail" #update this to webp later
+  background_image: "/assets/images/gen/services/collaborationBackground.webp" #update this to webp later
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
