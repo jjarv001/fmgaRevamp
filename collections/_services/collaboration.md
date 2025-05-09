@@ -13,8 +13,8 @@ hero:
   heading: "Collaboration"
   sub_heading: "Our growers work together to find the best methods for the best products"
   text_color: "#ffffff"
-  background_color: ""
-  background_gradient: true
+  background_color: "#1d2830"
+  background_gradient: false #was true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
   background_image: "/assets/images/gen/services/collaborationBackground.webp" #update this to webp later
   fullscreen_mobile: false
