@@ -27,12 +27,16 @@ hero:
 # Who We Are
 
 <u> Pat Hanners </u>
+<br>
+<br>
 The godfather of our organization, rumor has it he actually harvested the first mushroom approximately 90 million years ago. He was involved in the development of novel cultivation techniques in the 1980s, and worked for the USDA for years. He's our go-to expert.
 Pat's farm: Goose Creek Farm
 Email: 
-Facebook: 
+Facebook: [Mushroom Gardens](https://www.facebook.com/mushroomgardensvirginia/)
 
 <u> Christian Baker </u>
+<br>
+<br>
 Our resident chef, Christian was in the culinary field for years. He's always coming up with new ways to brand our products, and creating new recipes. His expertise helps us to expand our market beyond fresh mushrooms, providing our customers with more options and our group with greater opportunities.
 Christian's farm: Mush Love
 Facebook: 
@@ -40,6 +44,8 @@ Email:
 Phone: 
 
 <u> Frank Schmidt </u>
+<br>
+<br>
 A teacher for 25 years, Frank has the patience of a Buddhist monk. Frank regularly experiments with different varieties of mushrooms and methods of production, leading to new innovations that benefit the organization.
 Frank's farm: Tidewater Mushrooms LLC
 Website: 
@@ -47,6 +53,8 @@ Email:
 Phone: 
 
 <u> John Jarvis </u>
+<br>
+<br>
 Formerly an engineering technician in the manufacturing industry, John is an expert in statistical analysis and efficiency solutions. Also holding a Bachelor's in Computer Science, he's a practicing software developer interested in apply AI and Machine Learning tools to nature.
 John's farm: Jarvis Harvest
 Website: Coming soon
