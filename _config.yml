@@ -30,7 +30,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   posts:
-    output: true
+    output: false # was true
     permalink: /blog/:path/
 
 # Pages
