@@ -30,27 +30,28 @@ hero:
 <br>
 <br>
 The godfather of our organization, rumor has it he actually harvested the first mushroom approximately 90 million years ago. He was involved in the development of novel cultivation techniques in the 1980s, and worked for the USDA for years. He's our go-to expert.
-Pat's farm: Goose Creek Farm
-Email: 
+Pat's farm: Goose Creek Farm<br>
+Email: mushroomgardens@outlook.com<br>
 Facebook: [Mushroom Gardens](https://www.facebook.com/mushroomgardensvirginia/)
 
 <u> Christian Baker </u>
 <br>
 <br>
 Our resident chef, Christian was in the culinary field for years. He's always coming up with new ways to brand our products, and creating new recipes. His expertise helps us to expand our market beyond fresh mushrooms, providing our customers with more options and our group with greater opportunities.
-Christian's farm: Mush Love
-Facebook: 
-Email:
-Phone: 
+Christian's farm: Mush Love<br>
+Facebook: [https://www.facebook.com/people/Mush-Love-in-Mathews-VA/61556185017724/](Mush Love)<br>
+Email: mushloveva@gmail.com<br>
+Phone: 757-870-1559<br>
 
 <u> Frank Schmidt </u>
 <br>
 <br>
-A teacher for 25 years, Frank has the patience of a Buddhist monk. Frank regularly experiments with different varieties of mushrooms and methods of production, leading to new innovations that benefit the organization.
-Frank's farm: Tidewater Mushrooms LLC
-Website: 
-Email: 
-Phone: 
+A teacher for 25 years, Frank has the patience of a Buddhist monk. Frank regularly experiments with different varieties of mushrooms and methods of production, leading to new innovations that benefit the organization.<br>
+Frank's farm: Tidewater Mushrooms LLC <br>
+Website: [Tidwater Mushrooms](https://www.tidewatermushrooms.com/)<br>
+Email: tidewatermushrooms@gmail.com<br>
+Phone: 860-920-2490<br> 
+<!-- update phone numbers as links to click and call -->
 
 <u> John Jarvis </u>
 <br>
