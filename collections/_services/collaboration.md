@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/collaborationBackground.webp"
 hero:
   enabled: true
   heading: "Collaboration"
-  sub_heading: "Our growers work together to find the best methods
-   for the best products"
+  sub_heading: "Our growers work together to find the best
+    methods for the best products"
   text_color: "#ffffff"
   background_color: "#1d2830"
   background_gradient: false #was true
