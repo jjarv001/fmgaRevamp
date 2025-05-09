@@ -33,9 +33,19 @@ hero:
         style: "primary"
 ---
 
-# Creating Modern Websites
+# Farmers Helping Farmers
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+We're still in the developmental stage of our consultation services, but we think it'll be beneficial to potential farmers as well as our organization.
+
+Our members construct, cultivate, and harvest from their own designs on their own farms. But we also work collectively on larger projects that would be too big to tackle individually. That's helped us to develop systems and plans for mushroom cultivation on large plots of land.
+
+Whether you'd like assistance developing your own personal plan or would like to earn some passive income through us farming your land, we're sure we can provide some insight.
+
+This service isn't fully structured yet, but feel free to [contact us](/contact) for more information!
+
+
+
+<!-- Web design encompasses many different skills and disciplines in the production and maintenance of websites.
 
 Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
 
@@ -69,4 +79,4 @@ There are two primary jobs involved in creating a website: the web designer and 
 
 ![Design In Figma](/assets/images/gen/content/content-2.webp)
 
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another. -->
