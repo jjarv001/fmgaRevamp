@@ -12,7 +12,8 @@ image: "/assets/images/gen/services/experimentationBackground.webp"
 hero:
   enabled: true
   heading: "Experimentation"
-  sub_heading: "We know we don't know everything, so we study, experiment, and test"
+  sub_heading: "We know we don't know everything and we like to learn, 
+    <br>so we study, experiment, and test"
   text_color: "#ffffff"
   background_color: "#1d2830"
   background_gradient: false
