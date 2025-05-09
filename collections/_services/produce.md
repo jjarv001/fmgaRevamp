@@ -48,7 +48,7 @@ While our main goal is to produce mushrooms, there are many forms that mushroom 
 Many mushrooms you'll find elsewhere are grown in climate-controlled facilities with minimal exposure 
 to the natural environment. The vast majority of our product develops where its designed to: nature. On 
 top of being much more sustainable and environmentally friendly, our produce has flavor complexities 
-that you won't find your typical store-bought mushrooms.
+that you won't find in your typical store-bought mushrooms.
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/produceImage1.jpeg" title="Christian Brown" caption="" alt="Shiitake on Log (1)" %}
 <!--originally contained: link="" target="_blank"  ...at the end-->
