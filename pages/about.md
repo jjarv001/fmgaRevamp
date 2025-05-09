@@ -68,7 +68,7 @@ often involve plastic grow bags, controlled environments, and/or the use of chem
 The bulk of our produce is grown on logs using modern techniques, providing a more sustainable and 
 natural production method.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/placeholder1.jpeg" title="Christian Baker" caption="Fruiting Logs" alt="Photo of inoculated logs fruiting oyster mushrooms"%} <!-- link="https://figma.com" target="_blank"-->
 
 <!-- ## Front-end Development
 
