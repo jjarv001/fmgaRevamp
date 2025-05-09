@@ -42,7 +42,7 @@ We strive to build upon ancient methods to provide natural and sustainable strat
 
 # How We Learn
 
-Much of our knowledge comes from predecessors and experience. We research what other experts in our field are doing and develop our techniques and improvements. Failure is a part of aby cash crop business, and we learn best from our mistakes.
+Much of our knowledge comes from predecessors and experience. We research what other experts in our field are doing and develop our techniques and improvements. Failure is a part of any cash crop business, and we learn best from our mistakes.
 
 # Why We Share
 
