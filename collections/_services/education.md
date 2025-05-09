@@ -15,7 +15,7 @@ hero:
   sub_heading: "Our classes offer hands-on experience in the art of mushroom cultivation"
   text_color: "#ffffff"
   background_color: ""
-  background_gradient: true
+  background_gradient: false
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   background_image: "/assets/images/gen/services/educationBackground.webp"
   fullscreen_mobile: false
