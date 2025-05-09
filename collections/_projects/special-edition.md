@@ -31,8 +31,16 @@ hero:
         style: "primary"
 ---
 
-## We helped the city of brisbane rebuild their old water recycling plant and reclaimation works.
+## Chesapeake Bay Croquet Club
 
+This is our main project. The [Chesapeake Bay Croquet Club] (https://cbcc.fun/) is one of the largest, if not the largest, croquet clubs in the world. As it so happens, there's also a lot of timber and land management that's necessary for the property.
+
+Thanks to the open-mindedness and entreprenuership of the owner, our organization is working with this amazing location to help manage their woodlands and produce a crop worth selling. We get to fell, inoculate, and harvest on-site. The owner takes a portion of the profits with minimal labor, and gets low-cost land management for that portion of their property. It's a win-win
+
+If you're interested in mushrooms, please reach out and [contact us](/contact), or if you're interested in croquet please check out the [Chesapeake Bay Croquet Club](https://cbcc.fun/).
+
+
+<!-- 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.
 
 Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
@@ -73,4 +81,4 @@ Markdown Extra adds the following features to Markdown:
 - tables
 - definition lists
 - footnotes
-- abbreviations
+- abbreviations -->
