@@ -39,6 +39,8 @@ Thanks to the open-mindedness and entreprenuership of the owner, our organizatio
 
 If you're interested in mushrooms, please reach out and [contact us](/contact), or if you're interested in croquet please check out the [Chesapeake Bay Croquet Club](https://cbcc.fun/).
 
+![CBCC Clubhouse](/assets/images/gen/projects/cbccFirePit.jpeg)
+
 
 <!-- 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.
