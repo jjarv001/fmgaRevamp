@@ -29,7 +29,7 @@ hero:
 <u> Pat Hanners </u>
 <br>
 <br>
-The godfather of our organization, rumor has it he actually harvested the first mushroom approximately 90 million years ago. He was involved in the development of novel cultivation techniques in the 1980s, and worked for the USDA for years. He's our go-to expert.
+The godfather of our organization, rumor has it he actually harvested the first mushroom approximately 90 million years ago. He was involved in the development of novel cultivation techniques in the 1980s, and worked for the USDA for years. He's our go-to expert.<br>
 Pat's farm: Goose Creek Farm<br>
 Email: mushroomgardens@outlook.com<br>
 Facebook: [Mushroom Gardens](https://www.facebook.com/mushroomgardensvirginia/)
@@ -37,9 +37,9 @@ Facebook: [Mushroom Gardens](https://www.facebook.com/mushroomgardensvirginia/)
 <u> Christian Baker </u>
 <br>
 <br>
-Our resident chef, Christian was in the culinary field for years. He's always coming up with new ways to brand our products, and creating new recipes. His expertise helps us to expand our market beyond fresh mushrooms, providing our customers with more options and our group with greater opportunities.
+Our resident chef, Christian was in the culinary field for years. He's always coming up with new ways to brand our products, and creating new recipes. His expertise helps us to expand our market beyond fresh mushrooms, providing our customers with more options and our group with greater opportunities.<br>
 Christian's farm: Mush Love<br>
-Facebook: [https://www.facebook.com/people/Mush-Love-in-Mathews-VA/61556185017724/](Mush Love)<br>
+Facebook: [Mush Love](https://www.facebook.com/people/Mush-Love-in-Mathews-VA/61556185017724/)<br>
 Email: mushloveva@gmail.com<br>
 Phone: 757-870-1559<br>
 
@@ -56,10 +56,10 @@ Phone: 860-920-2490<br>
 <u> John Jarvis </u>
 <br>
 <br>
-Formerly an engineering technician in the manufacturing industry, John is an expert in statistical analysis and efficiency solutions. Also holding a Bachelor's in Computer Science, he's a practicing software developer interested in apply AI and Machine Learning tools to nature.
-John's farm: Jarvis Harvest
-Website: Coming soon
-Email: Coming soon
+Formerly an engineering technician in the manufacturing industry, John is an expert in statistical analysis and efficiency solutions. Also holding a Bachelor's in Computer Science, he's a practicing software developer interested in apply AI and Machine Learning tools to nature.<br>
+John's farm: Jarvis Harvest<br>
+Website: Coming soon<br>
+Email: Coming soon<br>
 Phone: 804-725-8642
 
 ## Our Methods
