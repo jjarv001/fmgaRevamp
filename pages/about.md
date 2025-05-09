@@ -33,8 +33,7 @@ Pat's farm: Goose Creek Farm<br>
 Email: mushroomgardens@outlook.com<br>
 Facebook: [Mushroom Gardens](https://www.facebook.com/mushroomgardensvirginia/)
 
-<u> Christian Baker </u>
-<br>
+## <u> Christian Baker </u>
 <br>
 Our resident chef, Christian was in the culinary field for years. He's always coming up with new ways to brand our products, and creating new recipes. His expertise helps us to expand our market beyond fresh mushrooms, providing our customers with more options and our group with greater opportunities.<br>
 Christian's farm: Mush Love<br>
@@ -42,8 +41,7 @@ Facebook: [Mush Love](https://www.facebook.com/people/Mush-Love-in-Mathews-VA/61
 Email: mushloveva@gmail.com<br>
 Phone: 757-870-1559<br>
 
-<u> Frank Schmidt </u>
-<br>
+## <u> Frank Schmidt </u>
 <br>
 A teacher for 25 years, Frank has the patience of a Buddhist monk. Frank regularly experiments with different varieties of mushrooms and methods of production, leading to new innovations that benefit the organization.<br>
 Frank's farm: Tidewater Mushrooms LLC <br>
@@ -52,8 +50,7 @@ Email: tidewatermushrooms@gmail.com<br>
 Phone: 860-920-2490<br> 
 <!-- update phone numbers as links to click and call -->
 
-<u> John Jarvis </u>
-<br>
+## <u> John Jarvis </u>
 <br>
 Formerly an engineering technician in the manufacturing industry, John is an expert in statistical analysis and efficiency solutions. Also holding a Bachelor's in Computer Science, he's a practicing software developer interested in apply AI and Machine Learning tools to nature.<br>
 John's farm: Jarvis Harvest<br>
