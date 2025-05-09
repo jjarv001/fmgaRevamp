@@ -60,7 +60,7 @@ Our current course covers a large amount of information in a short period of tim
 
 One of the main things people come to us in search of is knowledge on how to grow, what to grow, and when to harvest. Our in-depth cultivation course will focus solely on cultivation techniques, stacking, ideal strains for our area, and harvesting.
 
-This course will be designed for people who are familiar with fungi and mushrooms, but interested in learning more about the intricasies of our operations. This course will include:
+This course will be designed for people who are familiar with fungi and mushrooms, but interested in learning more about the intricacies of our operations. This course will include:
 
   - Cultivation techniques (in-depth, hands-on)
   - Experimental techniques
