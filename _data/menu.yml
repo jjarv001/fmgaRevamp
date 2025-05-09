@@ -24,8 +24,8 @@ main:
     child:
       # - name: "Book Design"
       #   url: /projects/book-design/
-      - name: "Special Edition"
-        url: /projects/special-edition/
+      - name: "CBCC"
+        url: /projects/cbcc/
       # - name: "Master System"
       #   url: /projects/master-system/
       # - name: "Clothing Range"

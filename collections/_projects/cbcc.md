@@ -1,17 +1,17 @@
 ---
-title: "Special Edition"
-description: "Fire up your browser new economy mobile friendly golden goose, nor upsell. We need distributors to evangelize the new line to local markets."
+title: "CBCC"
+description: "The Chesapeake Bay Croquet Club is our home-base"
 date: 2018-12-20
 weight: 3
 header_transparent: true
 thumbnail: "/assets/images/gen/projects/project-2-3-thumbnail.webp"
 image: "/assets/images/gen/projects/project-2-3.webp"
-client: "Brisbane City Council"
+client: "CBCC"
 
 hero:
   enabled: true
-  heading: "Special Edition"
-  sub_heading: "Fire up your browser new economy mobile friendly golden goose, nor upsell. We need distributors to evangelize the new line to local markets."
+  heading: "CBCC"
+  sub_heading: "The Chesapeake Bay Croquet Club is our home-base"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
