@@ -5,7 +5,7 @@ date: 2018-12-20
 weight: 3
 header_transparent: true
 thumbnail: "/assets/images/gen/projects/project-2-3-thumbnail.webp"
-image: "/assets/images/gen/projects/project-2-3.webp"
+image: "/assets/images/gen/projects/cbccBG.jpeg" #convert to webp
 client: "CBCC"
 
 hero:
@@ -13,9 +13,9 @@ hero:
   heading: "CBCC"
   sub_heading: "The Chesapeake Bay Croquet Club is our home-base"
   text_color: "#FFFFFF"
-  background_color: ""
+  background_color: "#1d2830"
   background_gradient: false
-  background_image: "/assets/images/gen/projects/project-2-3.webp"
+  background_image: "/assets/images/gen/projects/cbccBG.jpeg" #convert to webp
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: true
