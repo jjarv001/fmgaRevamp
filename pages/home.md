@@ -50,7 +50,7 @@ intro:
   enabled: true
   align: left
   image: "/assets/images/gen/content/content-5-thumbnail.webp"
-  heading: "We're the future of sustainable mushroom cultivation"
+  heading: "We're the future of sustainable <br>mushroom cultivation"
   sub_heading: "Our methods enable us to produce top quality product at an affordable price."
   features:
     enabled: false
