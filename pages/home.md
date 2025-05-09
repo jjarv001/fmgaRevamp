@@ -49,7 +49,7 @@ services:
 intro:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-5-thumbnail.webp"
+  image: "/assets/images/gen/content/placeholder.jpeg" #convert to webp, replace w/ some other photo future related
   heading: "We're the future of sustainable <br>mushroom cultivation"
   sub_heading: "Our methods enable us to produce top quality product at an affordable price."
   features:
