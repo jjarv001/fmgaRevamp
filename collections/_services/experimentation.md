@@ -34,9 +34,25 @@ hero:
         style: "primary"
 ---
 
-# Creating Modern Websites
+# Old Concepts, New Methods
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+The vast majority of our mushrooms are grown on logs. This is far from a new concept, as mushrooms have been growing naturally on logs for millions of years. Beyond natural growth, humans have been cultivating mushrooms on logs with various methods for thousands of years.
+
+We strive to build upon ancient methods to provide natural and sustainable strategies for mushroom production.
+
+# How We Learn
+
+Much of our knowledge comes from predecessors and experience. We research what other experts in our field are doing and develop our techniques and improvements. Failure is a part of aby cash crop business, and we learn best from our mistakes.
+
+# Why We Share
+
+Many companies are fond of their trade secrets. That's not in our nature.
+
+Much of our knowledge and experience we make publicly and freely available, but what you can't learn from us online you can learn through [contacting us](/contact) or participating in one of our courses.
+
+We believe that everything we know will eventually be known regardless, so we don't hoard information. We just encourage you to take one of our courses so we can share our knowledge in the fullest capacity!
+
+<!-- Web design encompasses many different skills and disciplines in the production and maintenance of websites.
 
 Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
 
@@ -70,4 +86,4 @@ There are two primary jobs involved in creating a website: the web designer and 
 
 ![Design In Figma](/assets/images/gen/content/content-2.webp)
 
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another. -->
