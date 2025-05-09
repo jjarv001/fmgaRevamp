@@ -26,8 +26,7 @@ hero:
 
 # Who We Are
 
-<u> Pat Hanners </u>
-<br>
+## <u> Pat Hanners </u>
 <br>
 The godfather of our organization, rumor has it he actually harvested the first mushroom approximately 90 million years ago. He was involved in the development of novel cultivation techniques in the 1980s, and worked for the USDA for years. He's our go-to expert.<br>
 Pat's farm: Goose Creek Farm<br>
