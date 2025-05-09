@@ -16,7 +16,7 @@ hero:
   background_color: "#1d2830"
   background_gradient: false
   background_image: "/assets/images/gen/projects/cbccBG.jpeg" #convert to webp
-  background_image_blend_mode: false
+  background_image_blend_mode: overlay
   fullscreen_mobile: false
   fullscreen_desktop: true
   buttons:
