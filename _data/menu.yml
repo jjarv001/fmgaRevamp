@@ -22,12 +22,12 @@ main:
     url: /projects/
     weight: 2
     child:
-      - name: "Book Design"
-        url: /projects/book-design/
+      # - name: "Book Design"
+      #   url: /projects/book-design/
       - name: "Special Edition"
         url: /projects/special-edition/
-      - name: "Master System"
-        url: /projects/master-system/
+      # - name: "Master System"
+      #   url: /projects/master-system/
       # - name: "Clothing Range"
       #   url: /projects/clothing-range/
   - name: Blog
