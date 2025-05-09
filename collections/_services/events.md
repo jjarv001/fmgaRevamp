@@ -7,7 +7,7 @@ header_transparent: true
 fa_icon: "far fa-chart-bar"
 icon: "assets/images/icons/eventsIcon.png"
 thumbnail: "/assets/images/gen/services/eventsThumbnail2.jpeg" #convert to webp later
-image: "/assets/images/gen/services/service-5.webp"
+image: "/assets/images/gen/projects/cbccFirePit.jpeg"
 
 hero:
   enabled: false #was true
@@ -17,7 +17,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-5.webp"
+  background_image: "/assets/images/gen/projects/cbccFirePit.jpeg"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
