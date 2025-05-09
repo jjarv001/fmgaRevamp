@@ -14,8 +14,8 @@ main:
         url: /services/education/
       - name: "Consultation"
         url: /services/consultation/
-      - name: "Events"
-        url: /services/events/
+      # - name: "Events"
+      #   url: /services/events/
       - name: "Experimentation"
         url: /services/experimentation/
   - name: Projects
