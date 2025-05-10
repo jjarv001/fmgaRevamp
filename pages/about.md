@@ -52,7 +52,7 @@ Phone: 860-920-2490<br>
 
 ## <u> John Jarvis </u>
 <br>
-Formerly an engineering technician in the manufacturing industry, John is an expert in statistical analysis and efficiency solutions. Also holding a Bachelor's in Computer Science, he's a practicing software developer interested in apply AI and Machine Learning tools to nature.<br>
+Formerly an engineering technician in the manufacturing industry, John is an expert in statistical analysis and efficiency solutions. Also holding a Bachelor's in Computer Science, he's a practicing software developer interested in applying AI and Machine Learning tools to nature.<br>
 John's farm: Jarvis Harvest<br>
 Website: Coming soon<br>
 Email: Coming soon<br>
@@ -68,7 +68,7 @@ often involve plastic grow bags, controlled environments, and/or the use of chem
 The bulk of our produce is grown on logs using modern techniques, providing a more sustainable and 
 natural production method.<br>
 
-[Fruiting Logs - Christian Baker](/assets/images/gen/projects/cbccFirePit.png)
+<!-- [Fruiting Logs - Christian Baker](/assets/images/gen/projects/cbccFirePit.png) -->
 
 <!-- {% include framework/shortcodes/figure.html src="/assets/images/gen/content/placeholder1.jpeg" title="Christian Baker" caption="Fruiting Logs" alt="Photo of inoculated logs fruiting oyster mushrooms"%}  -->
 <!-- link="https://figma.com" target="_blank"-->

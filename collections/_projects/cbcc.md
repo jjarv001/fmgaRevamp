@@ -4,7 +4,7 @@ description: "The Chesapeake Bay Croquet Club is our home-base"
 date: 2018-12-20
 weight: 3
 header_transparent: true
-thumbnail: "/assets/images/gen/projects/project-2-3-thumbnail.webp"
+thumbnail: "/assets/images/gen/projects/cbccThumbnail.png"
 image: "/assets/images/gen/projects/cbccBG.jpeg" #convert to webp
 client: "CBCC"
 
