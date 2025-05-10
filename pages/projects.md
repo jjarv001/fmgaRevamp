@@ -13,7 +13,7 @@ hero:
   sub_heading: "Our portfolio of work and projects."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
-  background_gradient: true
+  background_gradient: false
   background_image: "/assets/images/gen/home/projectsBG.jpeg"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: false
