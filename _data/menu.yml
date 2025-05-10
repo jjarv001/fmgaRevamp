@@ -18,10 +18,10 @@ main:
       #   url: /services/events/
       - name: "Experimentation"
         url: /services/experimentation/
-  # - name: Projects #reenable
-  #   url: /projects/ #reenable
-  #   weight: 2 #reenable
-  #   child: #reenable
+  - name: Projects #reenable
+    url: /projects/ #reenable
+    weight: 2 #reenable
+    child: #reenable
       # - name: "Book Design"
       #   url: /projects/book-design/
       - name: "CBCC"  #reenable
