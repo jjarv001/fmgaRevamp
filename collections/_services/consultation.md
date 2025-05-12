@@ -5,9 +5,9 @@ date: 2018-11-28T15:15:34+10:00
 weight: 4
 header_transparent: true
 fa_icon: false
-icon: "assets/images/icons/consultationIcon.png"
-thumbnail: "/assets/images/gen/services/consultationThumbnail.jpeg"
-image: "/assets/images/gen/services/consultationBackground.webp" #was service-4.webp
+icon: "assets/images/icons/consultationIcon.png" #convert to webp
+thumbnail: "/assets/images/gen/services/consultationThumbnail.webp"
+image: "/assets/images/gen/services/consultationBackground.webp"
 
 hero:
   enabled: true
