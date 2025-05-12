@@ -1,6 +1,5 @@
-<!-- webp conversions done -->
-
 ---
+#web conversion done
 title: "CBCC"
 description: "The Chesapeake Bay Croquet Club is our home-base"
 date: 2018-12-20
