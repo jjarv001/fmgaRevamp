@@ -4,7 +4,7 @@ permalink: "/"
 title: "Forest Mushroom Growers Association"
 description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
 header_transparent: true
-meta_title: FMGA
+meta_title: FMGA | Forest Mushroom Growers Association
 
 hero:
   enabled: true
