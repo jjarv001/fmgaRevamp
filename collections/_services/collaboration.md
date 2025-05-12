@@ -5,7 +5,7 @@ date: 2018-11-28T15:15:34+10:00
 weight: 2
 header_transparent: true
 icon: "assets/images/icons/collaborateIcon.png"
-thumbnail: "/assets/images/gen/services/collaborateThumbnail.jpeg"
+thumbnail: "/assets/images/gen/services/collaborateThumbnail.webp"
 image: "/assets/images/gen/services/collaborationBackground.webp"
 
 hero:
@@ -71,7 +71,7 @@ When it comes to delivery, we'll make it happen. Since it's a co-op, we're all i
 Finally, communication. What we lack in screen-time we make up for in numbers. There will always be someone who responds to an email, text, or phone call (just don't call Pat).
 
 Our Region:
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/coopGoogleEarth.jpeg" title="Co-operating Area" caption="Eastern VA" alt="Photo of co-ops general area"%}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/coopGoogleEarth.webp" title="Co-operating Area" caption="Eastern VA" alt="Photo of co-ops general area"%}
 
 ## How does this benefit us?
 
