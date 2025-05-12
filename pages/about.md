@@ -5,7 +5,7 @@ date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/about/"
 description: "Four Funguys"
-image: "/assets/images/gen/content/placeholder.jpeg" #convert to webp, replace w/ group photo
+image: "/assets/images/gen/content/placeholder.webp" #convert to webp, replace w/ group photo
 
 hero:
   enabled: false
