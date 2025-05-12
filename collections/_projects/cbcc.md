@@ -1,11 +1,13 @@
+<!-- webp conversions done -->
+
 ---
 title: "CBCC"
 description: "The Chesapeake Bay Croquet Club is our home-base"
 date: 2018-12-20
 weight: 3
 header_transparent: true
-thumbnail: "/assets/images/gen/projects/cbccThumbnail.png"
-image: "/assets/images/gen/projects/cbccBG.jpeg" #convert to webp
+thumbnail: "/assets/images/gen/projects/cbccThumbnail.webp"
+image: "/assets/images/gen/projects/cbccBG.webp"
 client: "CBCC"
 
 hero:
@@ -15,7 +17,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
-  background_image: "/assets/images/gen/projects/cbccBG.jpeg" #convert to webp
+  background_image: "/assets/images/gen/projects/cbccBG.webp" #convert to webp
   background_image_blend_mode: overlay
   fullscreen_mobile: false
   fullscreen_desktop: true
@@ -39,7 +41,7 @@ Thanks to the open-mindedness and entreprenuership of the owner, our organizatio
 
 If you're interested in mushrooms, please reach out and [contact us](/contact), or if you're interested in croquet please check out the [Chesapeake Bay Croquet Club](https://cbcc.fun/).
 
-![CBCC](/assets/images/gen/projects/cbccFirePit.png) <!-- convert to webp -->
+![CBCC](/assets/images/gen/projects/cbccFirePit.webp) <!-- convert to webp -->
 
 
 <!-- 
