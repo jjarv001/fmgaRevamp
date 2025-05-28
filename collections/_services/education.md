@@ -45,7 +45,8 @@ We currently offer one course, and it's designed to introduce potential growers 
   - Hands-on experience
 
 This is a condensed course. It wont't teach you everything, but it is a great starting point for individuals looking to expand their knowledge on mushrooms and fungi in general. You'll spend a fair amount of time in a classroom setting, as well as some time outdoors (weather permitting) inoculating logs and checking out our operation.
-# Future Courses <details> <summary></summary>
+# Future Courses 
+
   <p>We have several courses planned for the future, they're just not complete yet.</p>
 
   <h2>Mushrooms in the Kitchen</h2>
@@ -69,7 +70,7 @@ This is a condensed course. It wont't teach you everything, but it is a great st
   </ul>
 
   <p>We don't claim to know everything about growing mushrooms, but our combined knowledge and experience goes a good distance. We share what we learn individually within our group, so when there's a new development for one of us it's a new development for all of us. This knowledge, once tried and true, will become part of this course.</p>
-  </details>
+
 
 
 <!-- ## What is Web Design?
