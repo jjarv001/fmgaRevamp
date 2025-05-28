@@ -49,7 +49,7 @@ This is a condensed course. It wont't teach you everything, but it is a great st
 
   <p>We have several courses planned for the future, they're just not complete yet.</p>
 
-  <h2>Mushrooms in the Kitchen</h2>
+  <h2><u>Mushrooms in the Kitchen</u></h2>
   <p>One of our founding members, Christian, is a former chef. His culinary expertise brings a tasteful dynamic to products, and we intend to host courses that will show and teach the versatility of mushrooms in the kitchen. Mushrooms are often considered a delicacy, so why not learn how to make your own delicious art?</p>
 
   <h2>Cultivation</h2>
