@@ -35,13 +35,18 @@ Facebook: [Mushroom Gardens](https://www.facebook.com/mushroomgardensvirginia/)
 
 ## <u> Christian Baker </u>
 <br>
-Our resident chef, Christian was in the culinary field for years. He's always coming up with new ways to brand our products, and creating new recipes. His expertise helps us to expand our market beyond fresh mushrooms, providing our customers with more options and our group with greater opportunities.<br>
-Christian's farm: Mush Love<br>
-Facebook: [Mush Love](https://www.facebook.com/people/Mush-Love-in-Mathews-VA/61556185017724/)<br>
-Email: mushloveva@gmail.com<br>
-Phone: 757-870-1559<br>
-<br>
-<img src="/assets/images/logo/mush_love_no_background.png" alt="Mush Love Logo" style="float: right; margin-left: 20px;">
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    Our resident chef, Christian was in the culinary field for years. He's always coming up with new ways to brand our products, and creating new recipes. His expertise helps us to expand our market beyond fresh mushrooms, providing our customers with more options and our group with greater opportunities.<br>
+    Christian's farm: Mush Love<br>
+    Facebook: [Mush Love](https://www.facebook.com/people/Mush-Love-in-Mathews-VA/61556185017724/)<br>
+    Email: mushloveva@gmail.com<br>
+    Phone: 757-870-1559<br>
+  </div>
+  <div style="flex: 0 0 auto; margin-left: 20px;">
+    <img src="/assets/images/logo/mush_love_no_background.png" alt="Mush Love Logo" style="max-width: 150px;">
+  </div>
+</div>
 
 ## <u> Frank Schmidt </u>
 <br>
