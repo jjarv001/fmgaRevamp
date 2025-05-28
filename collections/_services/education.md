@@ -71,7 +71,7 @@ This is a condensed course. It wont't teach you everything, but it is a great st
 
   <p>We don't claim to know everything about growing mushrooms, but our combined knowledge and experience goes a good distance. We share what we learn individually within our group, so when there's a new development for one of us it's a new development for all of us. This knowledge, once tried and true, will become part of this course.</p>
 
-
+# Public Information Links
 
 <!-- ## What is Web Design?
 
