@@ -45,9 +45,9 @@ We currently offer one course, and it's designed to introduce potential growers 
   - Hands-on experience
 
 This is a condensed course. It wont't teach you everything, but it is a great starting point for individuals looking to expand their knowledge on mushrooms and fungi in general. You'll spend a fair amount of time in a classroom setting, as well as some time outdoors (weather permitting) inoculating logs and checking out our operation.
-
+# Future Courses
 <details>
-  <summary># Future Courses</summary>
+  <summary></summary>
   <p>We have several courses planned for the future, they're just not complete yet.</p>
 
   <h2>Mushrooms in the Kitchen</h2>
