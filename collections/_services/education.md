@@ -45,32 +45,30 @@ We currently offer one course, and it's designed to introduce potential growers 
   - Hands-on experience
 
 This is a condensed course. It wont't teach you everything, but it is a great starting point for individuals looking to expand their knowledge on mushrooms and fungi in general. You'll spend a fair amount of time in a classroom setting, as well as some time outdoors (weather permitting) inoculating logs and checking out our operation.
-# Future Courses
-  <details>
-    <summary></summary>
-    <p>We have several courses planned for the future, they're just not complete yet.</p>
+# Future Courses <details> <summary></summary>
+  <p>We have several courses planned for the future, they're just not complete yet.</p>
 
-    <h2>Mushrooms in the Kitchen</h2>
-    <p>One of our founding members, Christian, is a former chef. His culinary expertise brings a tasteful dynamic to products, and we intend to host courses that will show and teach the versatility of mushrooms in the kitchen. Mushrooms are often considered a delicacy, so why not learn how to make your own delicious art?</p>
+  <h2>Mushrooms in the Kitchen</h2>
+  <p>One of our founding members, Christian, is a former chef. His culinary expertise brings a tasteful dynamic to products, and we intend to host courses that will show and teach the versatility of mushrooms in the kitchen. Mushrooms are often considered a delicacy, so why not learn how to make your own delicious art?</p>
 
-    <h2>Cultivation</h2>
-    <p>Our current course covers a large amount of information in a short period of time. This leaves room to improve on details.</p>
+  <h2>Cultivation</h2>
+  <p>Our current course covers a large amount of information in a short period of time. This leaves room to improve on details.</p>
 
-    <p>One of the main things people come to us in search of is knowledge on how to grow, what to grow, and when to harvest. Our in-depth cultivation course will focus solely on cultivation techniques, stacking, ideal strains for our area, and harvesting.</p>
+  <p>One of the main things people come to us in search of is knowledge on how to grow, what to grow, and when to harvest. Our in-depth cultivation course will focus solely on cultivation techniques, stacking, ideal strains for our area, and harvesting.</p>
 
-    <p>This course will be designed for people who are familiar with fungi and mushrooms, but interested in learning more about the intricacies of our operations. This course will include:</p>
+  <p>This course will be designed for people who are familiar with fungi and mushrooms, but interested in learning more about the intricacies of our operations. This course will include:</p>
 
-    <ul>
-      <li>Cultivation techniques (in-depth, hands-on)</li>
-      <li>Experimental techniques</li>
-      <li>Insight into yields</li>
-      <li>Insight into strain/tree-species matching</li>
-      <li>Market potential</li>
-      <li>Intro to Stewardship</li>
-      <li>Combined views from our individual growers</li>
-    </ul>
+  <ul>
+    <li>Cultivation techniques (in-depth, hands-on)</li>
+    <li>Experimental techniques</li>
+    <li>Insight into yields</li>
+    <li>Insight into strain/tree-species matching</li>
+    <li>Market potential</li>
+    <li>Intro to Stewardship</li>
+    <li>Combined views from our individual growers</li>
+  </ul>
 
-    <p>We don't claim to know everything about growing mushrooms, but our combined knowledge and experience goes a good distance. We share what we learn individually within our group, so when there's a new development for one of us it's a new development for all of us. This knowledge, once tried and true, will become part of this course.</p>
+  <p>We don't claim to know everything about growing mushrooms, but our combined knowledge and experience goes a good distance. We share what we learn individually within our group, so when there's a new development for one of us it's a new development for all of us. This knowledge, once tried and true, will become part of this course.</p>
   </details>
 
 
