@@ -52,7 +52,7 @@ This is a condensed course. It wont't teach you everything, but it is a great st
   <h2><u>Mushrooms in the Kitchen</u></h2>
   <p>One of our founding members, Christian, is a former chef. His culinary expertise brings a tasteful dynamic to products, and we intend to host courses that will show and teach the versatility of mushrooms in the kitchen. Mushrooms are often considered a delicacy, so why not learn how to make your own delicious art?</p>
 
-  <h2>Cultivation</h2>
+  <h2><u>Cultivation</u></h2>
   <p>Our current course covers a large amount of information in a short period of time. This leaves room to improve on details.</p>
 
   <p>One of the main things people come to us in search of is knowledge on how to grow, what to grow, and when to harvest. Our in-depth cultivation course will focus solely on cultivation techniques, stacking, ideal strains for our area, and harvesting.</p>
