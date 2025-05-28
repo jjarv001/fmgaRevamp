@@ -40,6 +40,8 @@ Christian's farm: Mush Love<br>
 Facebook: [Mush Love](https://www.facebook.com/people/Mush-Love-in-Mathews-VA/61556185017724/)<br>
 Email: mushloveva@gmail.com<br>
 Phone: 757-870-1559<br>
+<br>
+<img src="/assets/images/logo/mush_love_no_background.png" alt="Mush Love Logo" style="float: right; margin-left: 20px;">
 
 ## <u> Frank Schmidt </u>
 <br>
