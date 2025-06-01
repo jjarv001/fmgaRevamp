@@ -39,6 +39,9 @@ main:
   # - name: Buy Now
   #   url: https://www.zerostatic.io/theme/jekyll-advance/
   #   weight: 6
+  - name: Contact
+    url: /contact/
+    weight: 6
 footer_primary:
   - name: Home
     url: /
