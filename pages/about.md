@@ -35,7 +35,11 @@ Facebook: [Mushroom Gardens](https://www.facebook.com/mushroomgardensvirginia/){
 
 ## <u> Christian Baker </u>
 <br>
-Our resident chef, Christian was in the culinary field for years. He's always coming up with new ways to brand our products, and creating new recipes. His expertise helps us to expand our market beyond fresh mushrooms, providing our customers with more options and our group with greater opportunities.<br>
+Christian grew up in Hampton Roads, Virginia, before joining the military at 21 as a RADAR technician, serving for four years. Afterward, he pursued his passion for cooking at Johnson & Wales University, graduating with honors and working in kitchens across the U.S., eventually becoming a sous chef. Balancing restaurant life with raising two children proved challenging, leading him to a more stable role in military inventory management at Ft. Eustis, VA.
+
+In 2020, he bought a home in Mathews, VA, surrounded by towering trees—making traditional gardening difficult. Inspired by his shady, moisture-rich environment, he turned to mushroom cultivation, launching Mush Love in 2022 with the mission of feeding his community. By 2025, the farm grew to 5,000 logs, reinforcing his belief that building a strong community starts with healthy food. Christian is always happy to share his knowledge and experience, so if you have questions, just ask! Plus, with laughter as one of his favorite things, he’s truly a fun guy.<br>
+<!-- orig: <br>
+Our resident chef, Christian was in the culinary field for years. He's always coming up with new ways to brand our products, and creating new recipes. His expertise helps us to expand our market beyond fresh mushrooms, providing our customers with more options and our group with greater opportunities.<br> -->
 Christian's farm: Mush Love<br>
 Facebook: [Mush Love](https://www.facebook.com/people/Mush-Love-in-Mathews-VA/61556185017724/){:target="_blank"}<br>
 Email: mushloveva@gmail.com<br>
