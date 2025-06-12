@@ -28,7 +28,7 @@ hero:
 
 ## <u> Pat Hanners </u>
 <br>
-The godfather of our organization, rumor has it he actually harvested the first mushroom approximately 90 million years ago. He was involved in the development of novel cultivation techniques in the 1980s, and worked for the USDA for years. He's our go-to expert.<br>
+The godfather of our organization, rumor has it he actually harvested the first mushroom approximately 90 million years ago. He was involved in the development of novel cultivation techniques in the 1980s, and worked for the USDA for years. He's our go-to expert.<br><br>
 Pat's farm: Goose Creek Farm<br>
 Email: mushroomgardens@outlook.com<br>
 Facebook: [Mushroom Gardens](https://www.facebook.com/mushroomgardensvirginia/){:target="_blank"}
@@ -37,7 +37,7 @@ Facebook: [Mushroom Gardens](https://www.facebook.com/mushroomgardensvirginia/){
 <br>
 Christian grew up in Hampton Roads, Virginia, before joining the military at 21 as a RADAR technician, serving for four years. Afterward, he pursued his passion for cooking at Johnson & Wales University, graduating with honors and working in kitchens across the U.S., eventually becoming a sous chef. Balancing restaurant life with raising two children proved challenging, leading him to a more stable role in military inventory management at Ft. Eustis, VA.
 
-In 2020, he bought a home in Mathews, VA, surrounded by towering trees—making traditional gardening difficult. Inspired by his shady, moisture-rich environment, he turned to mushroom cultivation, launching Mush Love in 2022 with the mission of feeding his community. By 2025, the farm grew to 5,000 logs, reinforcing his belief that building a strong community starts with healthy food. Christian is always happy to share his knowledge and experience, so if you have questions, just ask! Plus, with laughter as one of his favorite things, he’s truly a fun guy.<br>
+In 2020, he bought a home in Mathews, VA, surrounded by towering trees—making traditional gardening difficult. Inspired by his shady, moisture-rich environment, he turned to mushroom cultivation, launching Mush Love in 2022 with the mission of feeding his community. By 2025, the farm grew to 5,000 logs, reinforcing his belief that building a strong community starts with healthy food. Christian is always happy to share his knowledge and experience, so if you have questions, just ask! Plus, with laughter as one of his favorite things, he’s truly a fun guy.<br><br>
 <!-- orig: <br>
 Our resident chef, Christian was in the culinary field for years. He's always coming up with new ways to brand our products, and creating new recipes. His expertise helps us to expand our market beyond fresh mushrooms, providing our customers with more options and our group with greater opportunities.<br> -->
 <strong>Christian's farm: Mush Love<strong><br>
@@ -47,7 +47,7 @@ Phone: 757-870-1559<br>
 
 ## <u> Frank Schmidt </u>
 <br>
-A teacher for 25 years, Frank has the patience of a Buddhist monk. Frank regularly experiments with different varieties of mushrooms and methods of production, leading to new innovations that benefit the organization.<br>
+A teacher for 25 years, Frank has the patience of a Buddhist monk. Frank regularly experiments with different varieties of mushrooms and methods of production, leading to new innovations that benefit the organization.<br><br>
 Frank's farm: Tidewater Mushrooms LLC <br>
 Website: [Tidwater Mushrooms](https://www.tidewatermushrooms.com/){:target="_blank"}<br>
 Email: tidewatermushrooms@gmail.com<br>
@@ -56,7 +56,7 @@ Phone: 860-920-2490<br>
 
 ## <u> John Jarvis </u>
 <br>
-Formerly an engineering technician in the manufacturing industry, John is an expert in statistical analysis and efficiency solutions. Also holding a Bachelor's in Computer Science, he's a practicing software developer interested in applying AI and Machine Learning tools to nature.<br>
+Formerly an engineering technician in the manufacturing industry, John is an expert in statistical analysis and efficiency solutions. Also holding a Bachelor's in Computer Science, he's a practicing software developer interested in applying AI and Machine Learning tools to nature.<br><br>
 John's farm: Jarvis Harvest<br>
 Website: Coming soon<br>
 Email: Coming soon<br>
