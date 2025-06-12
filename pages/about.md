@@ -29,7 +29,7 @@ hero:
 ## <u> Pat Hanners </u>
 <br>
 The godfather of our organization, rumor has it he actually harvested the first mushroom approximately 90 million years ago. He was involved in the development of novel cultivation techniques in the 1980s, and worked for the USDA for years. He's our go-to expert.<br><br>
-Pat's farm: Goose Creek Farm<br>
+<strong>Pat's farm: Goose Creek Farm<strong><br>
 Email: mushroomgardens@outlook.com<br>
 Facebook: [Mushroom Gardens](https://www.facebook.com/mushroomgardensvirginia/){:target="_blank"}
 
@@ -48,7 +48,7 @@ Phone: 757-870-1559<br>
 ## <u> Frank Schmidt </u>
 <br>
 A teacher for 25 years, Frank has the patience of a Buddhist monk. Frank regularly experiments with different varieties of mushrooms and methods of production, leading to new innovations that benefit the organization.<br><br>
-Frank's farm: Tidewater Mushrooms LLC <br>
+<strong>Frank's farm: Tidewater Mushrooms LLC<strong><br>
 Website: [Tidwater Mushrooms](https://www.tidewatermushrooms.com/){:target="_blank"}<br>
 Email: tidewatermushrooms@gmail.com<br>
 Phone: 860-920-2490<br> 
@@ -57,7 +57,7 @@ Phone: 860-920-2490<br>
 ## <u> John Jarvis </u>
 <br>
 Formerly an engineering technician in the manufacturing industry, John is an expert in statistical analysis and efficiency solutions. Also holding a Bachelor's in Computer Science, he's a practicing software developer interested in applying AI and Machine Learning tools to nature.<br><br>
-John's farm: Jarvis Harvest<br>
+<strong>John's farm: Jarvis Harvest<strong><br>
 Website: Coming soon<br>
 Email: Coming soon<br>
 Phone: 804-725-8642
