@@ -56,7 +56,7 @@ Phone: 860-920-2490<br>
 
 ## <u> John Jarvis </u>
 <br>
-Formerly an engineering technician in the manufacturing industry, John is an expert in statistical analysis and efficiency solutions. Also holding a Bachelor's in Computer Science, he's a practicing software developer interested in applying AI and Machine Learning tools to nature.<br><br>
+Formerly an engineering technician in the manufacturing industry, John is an expert in statistical analysis and efficiency solutions. Also holding a Bachelor's in Computer Science, he's a practicing software developer interested in applying AI and Machine Learning tools to agriculture.<br><br>
 <strong>John's farm: Jarvis Harvest<strong><br>
 Website: Coming soon<br>
 Email: Coming soon<br>
