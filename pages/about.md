@@ -33,7 +33,7 @@ The godfather of our organization, rumor has it he actually harvested the first 
 Email: mushroomgardens@outlook.com<br>
 Facebook: [Mushroom Gardens](https://www.facebook.com/mushroomgardensvirginia/){:target="_blank"}
 
-## <u> Christian Baker </u>
+## <u> Christian Brown </u>
 <br>
 Christian grew up in Hampton Roads, Virginia, before joining the military at 21 as a RADAR technician, serving for four years. Afterward, he pursued his passion for cooking at Johnson & Wales University, graduating with honors and working in kitchens across the U.S., eventually becoming a sous chef. Balancing restaurant life with raising two children proved challenging, leading him to a more stable role in military inventory management at Ft. Eustis, VA.
 
