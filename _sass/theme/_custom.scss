@@ -50,3 +50,13 @@
     background-color: var(--color-base-bg-3);
   }
 }
+
+// Ensure .button links inside .content keep their proper text color
+.content a.button {
+  color: var(--color-primary-text);
+  text-decoration: none;
+  &:hover {
+    color: var(--color-primary-text);
+    text-decoration: none;
+  }
+}
