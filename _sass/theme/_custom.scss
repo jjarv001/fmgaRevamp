@@ -60,3 +60,16 @@
     text-decoration: none;
   }
 }
+
+// Custom styling for Resources section in sidebar
+.sidebar {
+  h5 {
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 0;
+    margin-top: 0;
+  }
+  ul li a {
+    font-size: 16px;
+  }
+}
