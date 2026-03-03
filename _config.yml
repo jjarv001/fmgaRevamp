@@ -205,9 +205,8 @@ bottom:
   copyright_text: "@ 2025 FMGA" #"© 2023 Zerostatic Themes"
   show_rss_icon: true
 
-sidebar:
-  enable_sidebar_services: true
-  enable_breadcrumbs_services: true
-  enable_sidebar_projects: false
-  enable_breadcrumbs_projects: true
+enable_sidebar_services: true
+enable_breadcrumbs_services: true
+enable_sidebar_projects: false
+enable_breadcrumbs_projects: true
 
