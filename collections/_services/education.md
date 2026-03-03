@@ -9,6 +9,11 @@ icon: "assets/images/icons/educateIcon.png"
 thumbnail: "/assets/images/gen/services/educate.jpeg"
 image: "/assets/images/gen/services/educationBackground.webp"
 
+resources:
+  - title: "Spawn Disc Brochure"
+    url: "/assets/pdfs/spawn_disc_brochure.pdf"
+    external: false
+
 hero:
   enabled: true
   heading: "Education"
