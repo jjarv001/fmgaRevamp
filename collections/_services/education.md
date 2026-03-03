@@ -12,7 +12,7 @@ image: "/assets/images/gen/services/educationBackground.webp"
 resources:
   - title: "Spawn Disc Brochure"
     url: "/assets/pdfs/Spawn_Disc_Brochure.pdf"
-    external: false
+    external: true
 
 hero:
   enabled: true

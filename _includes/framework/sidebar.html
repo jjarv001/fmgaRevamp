@@ -1,5 +1,18 @@
 {% if include.collection %}
-  {% if site[include.collection].size > 0 %}
+  {% if page.resources %}
+    <div class="sidebar">
+      <h5>Resources</h5>
+      <ul>
+        {% for resource in page.resources %}
+          <li>
+            <a href="{{ resource.url | relative_url }}" {% if resource.external %}target="_blank" rel="noopener"{% endif %}>
+              {{ resource.title }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% elsif site[include.collection].size > 0 %}
     <div class="sidebar">
       {% if include.collection == 'posts' %}
         <h5>Recent Posts</h5>
@@ -22,21 +35,6 @@
           {% endfor %}
         </ul>
       {% endif %}
-    </div>
-  {% endif %}
-  
-  {% if page.resources %}
-    <div class="sidebar mt-4">
-      <h5>Resources</h5>
-      <ul>
-        {% for resource in page.resources %}
-          <li>
-            <a href="{{ resource.url | relative_url }}" {% if resource.external %}target="_blank" rel="noopener"{% endif %}>
-              {{ resource.title }}
-            </a>
-          </li>
-        {% endfor %}
-      </ul>
     </div>
   {% endif %}
 {% else %}
