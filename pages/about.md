@@ -45,15 +45,6 @@ Facebook: [Mush Love](https://www.facebook.com/people/Mush-Love-in-Mathews-VA/61
 Email: mushloveva@gmail.com<br>
 Phone: 757-870-1559<br>
 
-## <u> Frank Schmidt </u>
-<br>
-Frank, a teacher by profession, has dedicated a significant portion of his education career to natural studies. Across multiple states and fields of study, from biology to physics, he's worked with programs such as Forest Watch in an effort to preserve the health of woodland ecology. More recently, Frank and his wife Pat have taken on the endeavor of starting a mushroom business, practicing organic and preservative measures on underutilized hardwoods. Their products are top-notch, and so is Frank's expertise and experience.<br><br>
-<strong>Frank's farm: Tidewater Mushrooms LLC<strong><br>
-Website: [Tidwater Mushrooms](https://www.tidewatermushrooms.com/){:target="_blank"}<br>
-Email: tidewatermushrooms@gmail.com<br>
-Phone: 860-920-2490<br> 
-<!-- update phone numbers as links to click and call -->
-
 ## <u> John Jarvis </u>
 <br>
 Formerly an engineering technician in the manufacturing industry, John is an expert in statistical analysis and efficiency solutions. Also holding a Bachelor's in Computer Science, he's a practicing software developer interested in applying AI and Machine Learning tools to agriculture.<br><br>
