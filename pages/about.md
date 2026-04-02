@@ -10,7 +10,7 @@ image: "/assets/images/gen/content/placeholder.webp" #convert to webp, replace w
 hero:
   enabled: false
   heading: "About Us"
-  sub_heading: "Four Funguys"
+  sub_heading: "Funguys"
   background_image: false
   background_image_blend_mode: false
   full_height_mobile: false
